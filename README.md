@@ -1,6 +1,6 @@
 ### Olá! Meu nome é José Salatiel (me chamam de tel)
 
-- 🔭 Dev Jr do Ministério Público
+- 🔭 Estagiário no Ministério Público
 - 🌱 No momento aprendendo front-end
 - 😄 Pronouns: ele/dele
 
