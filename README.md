@@ -2,7 +2,7 @@
 
 - 🔭 Estagiário no Ministério Público
 - 🌱 No momento aprendendo front-end
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/telsalatiel">
